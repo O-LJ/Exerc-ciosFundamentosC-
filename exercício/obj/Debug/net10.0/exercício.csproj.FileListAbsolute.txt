@@ -1,0 +1,14 @@
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\bin\Debug\net10.0\exercício.exe
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\bin\Debug\net10.0\exercício.deps.json
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\bin\Debug\net10.0\exercício.runtimeconfig.json
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\bin\Debug\net10.0\exercício.dll
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\bin\Debug\net10.0\exercício.pdb
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.AssemblyInfoInputs.cache
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.AssemblyInfo.cs
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.csproj.CoreCompileInputs.cache
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.dll
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\refint\exercício.dll
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.pdb
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\exercício.genruntimeconfig.cache
+C:\Users\55902054842\Desktop\Exercício aula 69\exercício\obj\Debug\net10.0\ref\exercício.dll
